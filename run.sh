@@ -1,3 +1,7 @@
+#!/bin/bash
+#authors: Nick Carlson and Desiree Lussier
+#script was used to count word tags from chat groups by user
+
 #creates for loop to cycle through the subjects
 for a in {1..200}
 do
